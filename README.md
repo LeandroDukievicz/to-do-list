@@ -1,2 +1,3 @@
 # to-do-list
-repo just a pratice js lessons 
+Repositório para aplicar práticas iniciais em vanilla js 
+ 
