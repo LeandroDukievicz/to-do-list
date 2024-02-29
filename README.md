@@ -1,4 +1,4 @@
 # to-do-list
 
-#### Repositório para aplicar práticas iniciais em vanilla js 
+#### Projeto simples de lista de tarefas para aplicar práticas iniciais em vanilla js 
 
