@@ -4,7 +4,7 @@
 
 #
 
-### Pode conferir o projeto clicando [AQUI !](https://todolist-eta-liard.vercel.app/) ou clicando na imagem abaixo:
+### Pode conferir o projeto clicando [AQUI !](https://todolist-eta-liard.vercel.app/) 
 
 
 #
